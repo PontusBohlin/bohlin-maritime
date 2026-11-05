@@ -1,0 +1,9 @@
+# Local review renders
+*-preview.png
+*-final.png
+home-logo-final.png
+services-revealed.png
+mobile-nav-final.png
+
+# Development files
+.DS_Store
